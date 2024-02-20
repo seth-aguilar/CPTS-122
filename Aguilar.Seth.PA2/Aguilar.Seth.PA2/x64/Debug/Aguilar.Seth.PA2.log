@@ -1,0 +1,18 @@
+﻿  functions.c
+C:\Users\sethc\Desktop\Spring 2023\CptS 122\PA's\Aguilar.Seth.PA2\Aguilar.Seth.PA2\functions.c(150,16): warning C4047: 'function': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\sethc\Desktop\Spring 2023\CptS 122\PA's\Aguilar.Seth.PA2\Aguilar.Seth.PA2\functions.c(150,12): warning C4024: 'putchar': different types for formal and actual parameter 1
+C:\Users\sethc\Desktop\Spring 2023\CptS 122\PA's\Aguilar.Seth.PA2\Aguilar.Seth.PA2\functions.c(160,16): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+C:\Users\sethc\Desktop\Spring 2023\CptS 122\PA's\Aguilar.Seth.PA2\Aguilar.Seth.PA2\functions.c(160,10): warning C4024: 'strcpy': different types for formal and actual parameter 1
+C:\Users\sethc\Desktop\Spring 2023\CptS 122\PA's\Aguilar.Seth.PA2\Aguilar.Seth.PA2\functions.c(160,28): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+C:\Users\sethc\Desktop\Spring 2023\CptS 122\PA's\Aguilar.Seth.PA2\Aguilar.Seth.PA2\functions.c(160,25): warning C4024: 'gets_s': different types for formal and actual parameter 1
+C:\Users\sethc\Desktop\Spring 2023\CptS 122\PA's\Aguilar.Seth.PA2\Aguilar.Seth.PA2\functions.c(164,41): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\sethc\Desktop\Spring 2023\CptS 122\PA's\Aguilar.Seth.PA2\Aguilar.Seth.PA2\functions.c(164,35): warning C4024: 'strcmp': different types for formal and actual parameter 2
+C:\Users\sethc\Desktop\Spring 2023\CptS 122\PA's\Aguilar.Seth.PA2\Aguilar.Seth.PA2\functions.c(174,17): warning C4047: 'function': 'int' differs in levels of indirection from 'char [2]'
+C:\Users\sethc\Desktop\Spring 2023\CptS 122\PA's\Aguilar.Seth.PA2\Aguilar.Seth.PA2\functions.c(174,13): warning C4024: 'putchar': different types for formal and actual parameter 1
+C:\Users\sethc\Desktop\Spring 2023\CptS 122\PA's\Aguilar.Seth.PA2\Aguilar.Seth.PA2\functions.c(194,27): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+C:\Users\sethc\Desktop\Spring 2023\CptS 122\PA's\Aguilar.Seth.PA2\Aguilar.Seth.PA2\functions.c(194,24): warning C4024: 'gets_s': different types for formal and actual parameter 1
+  main.c
+C:\Users\sethc\Desktop\Spring 2023\CptS 122\PA's\Aguilar.Seth.PA2\Aguilar.Seth.PA2\main.c(24,25): warning C4047: 'function': 'Node **' differs in levels of indirection from 'Node *'
+C:\Users\sethc\Desktop\Spring 2023\CptS 122\PA's\Aguilar.Seth.PA2\Aguilar.Seth.PA2\main.c(24,20): warning C4024: 'load': different types for formal and actual parameter 2
+  Generating Code...
+  Aguilar.Seth.PA2.vcxproj -> C:\Users\sethc\Desktop\Spring 2023\CptS 122\PA's\Aguilar.Seth.PA2\x64\Debug\Aguilar.Seth.PA2.exe
