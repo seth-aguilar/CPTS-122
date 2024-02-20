@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\sethc\Desktop\Spring 2023\CptS 122\PA's\PA 5\PA 5\main.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  QueueNode.cpp
+  Generating Code...
+  PA 5.vcxproj -> C:\Users\sethc\Desktop\Spring 2023\CptS 122\PA's\PA 5\x64\Debug\PA 5.exe
